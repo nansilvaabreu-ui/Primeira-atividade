@@ -1,0 +1,24 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+h1{
+color: blue;
+font-size: 64px;
+text-transform: uppercase;
+}
+li{
+background-color: green;
+}
+#ler{
+background-color: blue;
+}
+.destaque{
+font-size: 100px;
+color: green;
+background-color: black;
+}
+.FOTO {
+width: 400px;
+}
